@@ -33,7 +33,7 @@ class HelloWorld {
             System.out.print("UN GRADED");
         }
         else {
-            System.out.print("ENTER VALID TOTALS!!!!");
+            System.out.print("ENTER VALID MARKS!!!!");
         }
     }
 }
